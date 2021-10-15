@@ -1,0 +1,17 @@
+3
+10 15
+left
+M 20 20
+M 20 20
+M 15 15
+M 20 20
+B 0 1 1
+B 0 10 10
+B 3 12 4
+I 1 9 3
+I 3 10 14
+I 3 10 17
+P 0 right 1 left
+P 1 left 3 right
+P 2 down 3 up
+N 15
